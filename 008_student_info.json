@@ -1,0 +1,13 @@
+{
+	"student_info":{ 
+	       "name": "ovili",       
+	       "age": "24",
+	         "class": "400l", 
+	       "subject": ["maths", "biology", "physics", "chemistry"],
+	       "contact details": {
+		 "phone":"+23481918600",
+	         "email":"ovilbee@gmail.com"
+	       } 
+	      
+       	}
+}
