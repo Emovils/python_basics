@@ -30,8 +30,8 @@ for num in B:
     print(num)
 print("fruit with indexes:") 
 for index, item in enumerate(fruit):
-    print(f"index:{index}, item:{item}")
-joined_fruit = "-".join(fruit)
+    print(f"{index}:{item}")
+joined_fruit = "-". join(fruit)
 print("joined fruit:", joined_fruit)
 fruit ="apple-banana-cherry-date".split("-")
 print("fruit:", fruit)
