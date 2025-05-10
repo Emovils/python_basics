@@ -1,0 +1,36 @@
+[
+  {
+	  "id": 1,
+	  "name": "john doe",
+          "email": "john.doe@example.com",
+	  "password": "pasword123",
+	  "role": "patient"
+
+   },
+   {
+	   "id": 2,
+	   "name": "jane smith",
+	   "email": "janesmith@example.com",
+	   "password": "securepass7896",
+	   "role": "nurse"
+   },
+   {
+	   "id": 3,
+	   "name": "michael johnson",
+	   "email", "michaeljohnson@example.com",
+	   "pssword":  "pass7896",
+	   "role": "nurse"
+   }, 
+   {       "id": 4,
+	   "name": "Emily Davis",
+	   "email":"emilydavis@example.com",
+	   "passw ord": "emily2025",
+	   "role": "patient"
+   },
+   {       "id": 5,
+	   "name": "sophia martinez",
+	   "email": "sophia.martinez@example.com",
+	   "password": "sophiam@rt",
+	   "role": "patient"
+   }
+] 
